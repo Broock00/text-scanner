@@ -12,7 +12,7 @@ A web application that captures text from a live camera feed using Optical Chara
 ## Tech Stack
 - **Frontend**: React, Vite, TypeScript, Axios
 - **Backend**: Django, Python, Django REST Framework
-- **OCR**: Tesseract
+- **OCR**: Tesseract, opencv
 - **Proxy**: Vite proxy to handle API requests
 
 ## Prerequisites
